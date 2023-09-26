@@ -1,5 +1,7 @@
 # 💰🧲💎 Cryptocurrency exchange
 
+### You can buy the script or request the demo, write to us: [@GoldenDrainerSupport](https://t.me/GoldenDrainerSupport)
+
 ## Key Features:
 * Enable/Disable the purchase of cryptocurrency from cards;
 * Multifunctional admin panel with flexible settings. NO configs - everything is right there;
